@@ -1,0 +1,13 @@
+<text class="ziti">涂鸦智能loT\n\n</text>
+<view class="imagesize">
+<image class='size' src="/index/img/chazuo.png">\n\n\n\n</image>\n\n\n
+
+</view>
+<text class="ziti1">工作中\n\n</text>
+<button type='primary'>开启</button>
+<text class="ziti1">\n</text>
+<button type='primary'>关闭\n\n\n</button>
+<text class="ziti1">\n</text>
+<button type='primary'>电量统计\n\n\n</button>
+<text class="ziti1">\n\n</text>
+<text class="ziti1">\n\n更多功能开发中\n\n</text>

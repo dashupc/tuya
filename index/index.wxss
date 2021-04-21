@@ -1,0 +1,27 @@
+.intro {
+  margin: 30px;
+  text-align: center;
+}
+.ziti{
+    font-size: 30px;
+  color: red;
+  display:flex;
+  justify-content: center;
+
+}
+.ziti1{
+  font-size: 15px;
+color: red;
+display:flex;
+justify-content: center;
+
+}
+.size {
+  width: 300rpx;
+  height: 300rpx;
+  
+}
+.imagesize{
+  display: flex;
+  justify-content: center;
+}
