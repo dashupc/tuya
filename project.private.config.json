@@ -1,0 +1,30 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": [
+        {
+          "name": "index/index",
+          "pathName": "index/index",
+          "scene": 1133
+        }
+      ]
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "index/index",
+          "pathName": "index/index",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

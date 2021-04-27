@@ -17,8 +17,8 @@ justify-content: center;
 
 }
 .size {
-  width: 300rpx;
-  height: 300rpx;
+  width: 200rpx;
+  height: 200rpx;
   
 }
 .imagesize{
